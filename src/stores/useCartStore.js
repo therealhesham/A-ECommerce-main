@@ -9,7 +9,7 @@ export const useCartStore = defineStore('cart', {
 
     actions: {
         async fetchData() {
-            let response = await fetch('/json/product.json');
+            let response = await fetch('./product.json');
             this.products = await response.json();
         },
         addToCart(product) {
