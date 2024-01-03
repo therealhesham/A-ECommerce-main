@@ -32,7 +32,7 @@ let done = ref(false);
 //     data.products = json,
 //   )
 
-(async funcion datafetcher() {
+(async function datafetcher() {
   let response = await fetch('/json/product.json');
   data.products = await response.json();
   alert(data.products)
