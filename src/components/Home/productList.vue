@@ -33,10 +33,11 @@ let done = ref(false);
 //   )
 
  (async () => {
-   let response = await fetch('/json/product.json');
+   let response = await fetch('/product.json');
    data.products = await response.json();
    console.log(data.products)
  });
+console.log(data.products);
 
 function loadMoreProducts() {
   if (productToShow.value >= data.products.length) {
