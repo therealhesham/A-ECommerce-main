@@ -35,7 +35,7 @@ let done = ref(false);
 (async () => {
   let response = await fetch('/json/product.json');
   data.products = await response.json();
-  console.log(data.products)
+  alert(data.products)
  });
 // zconsole.log(data.products);
 
