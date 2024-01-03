@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "first_name": "Jose",
+        "last_name": "Lopez",
+        "email": "joselopez0944@slingacademy.com",
+        "phone": "+1-971-533-4552x1542",
+        "gender": "male",
+        "age": 25,
+        "job_title": "Project Manager",
+        "years_of_experience": 1,
+        "salary": 8500,
+        "department": "Product",
+        "url": "https://www.fashionbeans.com/wp-content/uploads/2016/11/fringehaircollectiontop3-768x346.jpg"
+    },
+    {
+        "id": 2,
+        "first_name": "Diane",
+        "last_name": "Carter",
+        "email": "dianecarter1228@slingacademy.com",
+        "phone": "881.633.0107",
+        "gender": "male",
+        "age": 26,
+        "job_title": "Product Designer",
+        "years_of_experience": 2,
+        "salary": 7000,
+        "department": "Product",
+        "url": "https://www.pngkit.com/png/detail/340-3400395_guy-left-call-center-man-png.png"
+    },
+    {
+        "id": 3,
+        "first_name": "Shawn",
+        "last_name": "Foster",
+        "email": "shawnfoster2695@slingacademy.com",
+        "phone": "001-966-861-0065x493",
+        "gender": "female",
+        "age": 37,
+        "job_title": "Web Developer",
+        "years_of_experience": 14,
+        "salary": 17000,
+        "department": "Product",
+        "url": "https://images.pexels.com/photos/6592547/pexels-photo-6592547.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 4,
+        "first_name": "Brenda",
+        "last_name": "Fisher",
+        "email": "brendafisher3185@slingacademy.com",
+        "phone": "001-574-564-4648",
+        "gender": "female",
+        "age": 31,
+        "job_title": "Web Developer",
+        "years_of_experience": 8,
+        "salary": 10000,
+        "department": "Product",
+        "url": "https://media.istockphoto.com/id/1348560795/photo/confident-business-lady-in-eyeglasses-smiling-at-camera.jpg?s=612x612&w=0&k=20&c=vXQSNqQMsxIYUjjcUgwYJxSJ7dFy4BmV9EBaEdxudFk="
+    }
+]
