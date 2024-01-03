@@ -33,7 +33,7 @@ let done = ref(false);
 //   )
 
  (async () => {
-   let response = await fetch('/product.json');
+   let response = await fetch('./product.json');
    data.products = await response.json();
    console.log(data.products)
  });
