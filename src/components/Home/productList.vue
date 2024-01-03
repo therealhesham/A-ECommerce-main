@@ -16,7 +16,7 @@
   </v-container>
 </template>
 
-<script setup>
+<script>
 import ProductCard from './ProductHome.vue';
 import { useCartStore } from '@/stores/useCartStore';
 import { ref } from "vue";
