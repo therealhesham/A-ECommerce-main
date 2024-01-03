@@ -39,10 +39,7 @@ export default {
   async created() {
     let response = await fetch(this.url);
     this.teams = await response.json();
-    // fetch(this.url).then(response =>
-    //   response.json()).then(data => {
-    //     this.teams = data
-    //   })
+   
   },
 }
 </script>
